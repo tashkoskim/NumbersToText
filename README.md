@@ -8,7 +8,7 @@ The names of the big numbers greater than 10^6 are used according 'Old European 
 - Some examples:
 10^3 = "илјада", 10^6 = "милион", 10^9 = "милијарда", 10^12 = "билион", 10^15 = "билијарда", 10^18 = "трилион", 10^21 = "трилијарда", 10^24 = "квадрилион", 10^7 = "квадрилијарда", ...
 
-- There are 2 main methods that can be used:
+There are 2 main methods that can be used:
 1. ConvertNumbers.ToTextMK(number) where number can be of type long, or
 2. ConvertNumbers.DecimalToTextMK(number) where number can be of type decimal
 

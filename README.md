@@ -53,7 +53,7 @@ Some output examples of the application:
 
 ----------------------------------------------
 
-You can freely use the library for our needs if you like it.
+You can freely use the library for your needs if you like it.
 
 You can contact me: tashkoskim@yahoo.com
 

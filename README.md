@@ -7,13 +7,13 @@ The names of the big numbers greater than 10^6 are used according 'Old European 
 
 Some examples:
 10^3 = "илјада", 10^6 = "милион", 10^9 = "милијарда", 10^12 = "билион", 10^15 = "билијарда", 10^18 = "трилион", 10^21 = "трилијарда", 10^24 = "квадрилион", 10^7 = "квадрилијарда", ...
-----------------------------------------------
+
 There are 2 main methods that can be used:
 1. ConvertNumbers.ToTextMK(number) where number can be of type long, or
 2. ConvertNumbers.DecimalToTextMK(number) where number can be of type decimal
-----------------------------------------------
+
 The challenge part was to modify the words in some cases, because there are many cases on Macedonian where the words change depending which numbers needs to be read.
-----------------------------------------------
+
 Some output examples of the application:
 201
 двесте и еден
@@ -56,4 +56,4 @@ You can freely use the library for our needs if you like it.
 
 You can contact me: tashkoskim@yahoo.com
 
-----------------------------------------------
+

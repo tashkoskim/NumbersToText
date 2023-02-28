@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Convert_numbers_2_MKwords/1.0.0": {
+        "runtime": {
+          "Convert_numbers_2_MKwords.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Convert_numbers_2_MKwords/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

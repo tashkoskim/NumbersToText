@@ -1,0 +1,15 @@
+C:\Users\Tashkoskim\Documents\Visual Studio 2022\Projects\Convert_numbers_2_MKwords\Convert_numbers_2_MKwords\bin\Debug\net6.0\Convert_numbers_2_MKwords.exe
+C:\Users\Tashkoskim\Documents\Visual Studio 2022\Projects\Convert_numbers_2_MKwords\Convert_numbers_2_MKwords\bin\Debug\net6.0\Convert_numbers_2_MKwords.deps.json
+C:\Users\Tashkoskim\Documents\Visual Studio 2022\Projects\Convert_numbers_2_MKwords\Convert_numbers_2_MKwords\bin\Debug\net6.0\Convert_numbers_2_MKwords.runtimeconfig.json
+C:\Users\Tashkoskim\Documents\Visual Studio 2022\Projects\Convert_numbers_2_MKwords\Convert_numbers_2_MKwords\bin\Debug\net6.0\Convert_numbers_2_MKwords.dll
+C:\Users\Tashkoskim\Documents\Visual Studio 2022\Projects\Convert_numbers_2_MKwords\Convert_numbers_2_MKwords\bin\Debug\net6.0\Convert_numbers_2_MKwords.pdb
+C:\Users\Tashkoskim\Documents\Visual Studio 2022\Projects\Convert_numbers_2_MKwords\Convert_numbers_2_MKwords\obj\Debug\net6.0\Convert_numbers_2_MKwords.csproj.AssemblyReference.cache
+C:\Users\Tashkoskim\Documents\Visual Studio 2022\Projects\Convert_numbers_2_MKwords\Convert_numbers_2_MKwords\obj\Debug\net6.0\Convert_numbers_2_MKwords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tashkoskim\Documents\Visual Studio 2022\Projects\Convert_numbers_2_MKwords\Convert_numbers_2_MKwords\obj\Debug\net6.0\Convert_numbers_2_MKwords.AssemblyInfoInputs.cache
+C:\Users\Tashkoskim\Documents\Visual Studio 2022\Projects\Convert_numbers_2_MKwords\Convert_numbers_2_MKwords\obj\Debug\net6.0\Convert_numbers_2_MKwords.AssemblyInfo.cs
+C:\Users\Tashkoskim\Documents\Visual Studio 2022\Projects\Convert_numbers_2_MKwords\Convert_numbers_2_MKwords\obj\Debug\net6.0\Convert_numbers_2_MKwords.csproj.CoreCompileInputs.cache
+C:\Users\Tashkoskim\Documents\Visual Studio 2022\Projects\Convert_numbers_2_MKwords\Convert_numbers_2_MKwords\obj\Debug\net6.0\Convert_numbers_2_MKwords.dll
+C:\Users\Tashkoskim\Documents\Visual Studio 2022\Projects\Convert_numbers_2_MKwords\Convert_numbers_2_MKwords\obj\Debug\net6.0\refint\Convert_numbers_2_MKwords.dll
+C:\Users\Tashkoskim\Documents\Visual Studio 2022\Projects\Convert_numbers_2_MKwords\Convert_numbers_2_MKwords\obj\Debug\net6.0\Convert_numbers_2_MKwords.pdb
+C:\Users\Tashkoskim\Documents\Visual Studio 2022\Projects\Convert_numbers_2_MKwords\Convert_numbers_2_MKwords\obj\Debug\net6.0\Convert_numbers_2_MKwords.genruntimeconfig.cache
+C:\Users\Tashkoskim\Documents\Visual Studio 2022\Projects\Convert_numbers_2_MKwords\Convert_numbers_2_MKwords\obj\Debug\net6.0\ref\Convert_numbers_2_MKwords.dll

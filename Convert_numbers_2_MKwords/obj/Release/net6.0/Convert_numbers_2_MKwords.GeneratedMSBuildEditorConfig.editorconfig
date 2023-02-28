@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Convert_numbers_2_MKwords
+build_property.ProjectDir = C:\Users\Tashkoskim\Documents\Visual Studio 2022\Projects\Convert_numbers_2_MKwords\Convert_numbers_2_MKwords\

@@ -14,7 +14,7 @@ The names of the big numbers greater than 10^6 are used according 'Old European 
 
 The challenge part was to modify the words in some cases, because there are many cases on Macedonian where the words change depending which numbers needs to be read.
 
-- Some output examples of the application:
+Some output examples of the application:
 - 201
 двесте и еден
 

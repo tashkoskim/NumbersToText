@@ -1,9 +1,10 @@
 # NumbersToText
->>> Convert numbers to text on Macedonian <<<
+Convert numbers to text on Macedonian
 ----------------------------------------------
 
 This library 'ConvertNumbers.cs' can convert any long number and decimal number into text on Macedonian language. 
 The names of the big numbers greater than 10^6 are used according 'Old European name (Long form') for naming big numbers. 
+
 Some examples:
 10^3 = "илјада", 10^6 = "милион", 10^9 = "милијарда", 10^12 = "билион", 10^15 = "билијарда", 10^18 = "трилион", 10^21 = "трилијарда", 10^24 = "квадрилион", 10^7 = "квадрилијарда", ...
 ----------------------------------------------

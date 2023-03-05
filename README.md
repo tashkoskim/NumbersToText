@@ -1,9 +1,8 @@
 # NumbersToText
 ## Convert numbers to text on Macedonian
-----------------------------------------------
 
-This library 'ConvertNumbers.cs' can convert any long number and decimal number into text on Macedonian language.   
-The names of the big numbers greater than 10^6 are used according 'Old European name (Long form') for naming big numbers. You can read more about [names of large numbers](https://simple.wikipedia.org/wiki/Names_of_large_numbers).    
+This library **'ConvertNumbers.cs'** can convert any long number and decimal number into text on Macedonian language.   
+The names of the big numbers greater than 10^6 are used according **'Old European name (Long form)'** for naming big numbers. You can read more about [names of large numbers](https://simple.wikipedia.org/wiki/Names_of_large_numbers).    
 
 - Some examples of names according this naming convention:
 ```bigNumbers

@@ -19,8 +19,8 @@ There are 2 main methods that can be used:
 The challenge part was to modify the words in some cases, because there are many cases on Macedonian where the words change depending which numbers needs to be read.
 
 ## Output examples
-Example output text for some numbers:   
-```output
+Example output text for the method `ToTextMK(long n)`:   
+```output1
 > 201
 двесте и еден
 
@@ -44,7 +44,9 @@ Example output text for some numbers:
 
 > 9223372036854775807
 девет трилиони двесте дваесет и три билијарди триста седумдесет и два билиони триесет и шест милијарди осумстотини педесет и четири милиони седумстотини седумдесет и пет илјади осумстотини и седум
-
+```   
+Example output text for the method `DecimalToTextMK(decimal n)`:  
+```output1
 > 1.5
 едно цело и пет десеттинки
 

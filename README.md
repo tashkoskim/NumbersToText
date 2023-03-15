@@ -6,9 +6,9 @@ The names of the big numbers greater than 10^6 are used according **'Old Europea
 
 - Some examples of names according this naming convention:
 ```bigNumbers
-$\10^3$ = "илјада", $10^6$ = "милион", 10^9 = "милијарда", 10^12 = "билион", 10^15 = "билијарда", 10^18 = "трилион", 10^21 = "трилијарда", 10^24 = "квадрилион", 10^27 = "квадрилијарда", ...  
+10^3 = "илјада", 10^6 = "милион", 10^9 = "милијарда", 10^12 = "билион", 10^15 = "билијарда", 10^18 = "трилион", 10^21 = "трилијарда", 10^24 = "квадрилион", 10^27 = "квадрилијарда", ...  
 ```
-$\sqrt{3x-1}+(1+x)^2$ 
+
 ## Main methods
 There are 2 main methods that can be used:   
 | Methods                          | Input parameter type    | Returns |
